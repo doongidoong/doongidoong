@@ -1,5 +1,5 @@
 
- <div align=center><h1> Profile </h1></div>
+ <div align=center><h1> PROFILE </h1></div>
 <p align=center> <b> Name : </b> LEE JIHUN  </p>
 <p align=center> <b> School : </b> Sogang University  </p>
 <p align=center> <b> Company : </b> SK 주식회사 C&C  </p>
