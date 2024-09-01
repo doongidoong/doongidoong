@@ -42,6 +42,7 @@
   Email: wlgns3398@naver.com
 </div>
  <div align>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doongidoong&show_icons=true&theme=dracula)
+   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgns1830)](https://solved.ac/wlgns1830/)
+
 </div>
