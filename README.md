@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
- <div align><h1> 🔨 SKILL & STACKS</h1></div>
+ <div align><h1> 📫  Contracts </h1></div>
 <div align> 
   Email: wlgns3398@naver.com
 </div>
