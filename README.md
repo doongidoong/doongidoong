@@ -1,16 +1,18 @@
 
- <div align=center><h1> PROFILE </h1></div>
-<p align=center> <b> Name : </b> LEE JIHUN  </p>
-<p align=center> <b> Company : </b> SK 주식회사 C&C  </p>
+<div align><h1> PROFILE </h1></div>
+<p align> <b> Name : </b> LEE JIHUN  </p>
+<p align> <b> Company : </b> SK 주식회사 C&C  </p>
 
- <div align=center>
+ <div align>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doongidoong&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgns1830)](https://solved.ac/wlgns1830/)
 </div>
- <div align=center><h1> STACKS</h1></div>
+ <div align><h1> SKILL & STACKS</h1></div>
 
-<div align=center> 
+<div align> 
+  <h3>Language<h3>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
