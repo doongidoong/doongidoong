@@ -1,8 +1,6 @@
 
 <div align><h1> 👋 PROFILE </h1></div>
 <p align> <b> Name : </b> LEE JIHUN  </p>
-<p align> <b> Company : </b> SK 주식회사 C&C  </p>
-
 
  <div align><h1> 🔨 SKILL & STACKS</h1></div>
 <div align> 
